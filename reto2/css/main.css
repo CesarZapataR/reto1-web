@@ -1,0 +1,92 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+.top {
+    
+    margin: 0;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+ul{
+    margin: 0;
+}
+
+.top li{
+    display: inline;
+    margin: 0;
+    margin-right: 20px;
+    text-align: left;
+    font-size: 13px;
+
+}
+
+.pie1{
+    background-color: #F2F2F2;
+    border-top: 1px solid #E4E4E4;
+    height: 28px;
+    padding-top: 13px;
+}
+
+.pie1 li{
+    display: inline;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.54);
+
+}
+
+.pie2{
+    background-color: #F2F2F2;
+    border-top: 1px solid #E4E4E4;
+    height: 28px;
+    padding-top: 13px;
+    margin-bottom: 0;
+}
+
+.pie2 li{
+    display: inline;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.54);
+    margin-right: 25px;
+}
+
+span{
+    display: block;
+    text-align: center;
+}
+
+.buscador{
+    width: 40%;
+    line-height: 3em;
+    border: 1px solid #E7E7E7;
+    margin-top: 30px;
+    box-shadow: 3px 3px #F6F6F6;
+}
+
+.boton{
+    height: 35px;
+    margin-top: 20px;
+    background-color: #F6F6F6;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    border: 1px solid #f2f2f2;
+    font-weight: bold;
+    color: #757575;
+    margin-left: 5px;
+    margin-bottom: 25px;
+}
+
+.texto{
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+
+.logo{
+    padding-top:  11%;
+    margin-bottom: 8%;
+}
+
+.priv{
+    margin-left: 750px;
+}
+
+
